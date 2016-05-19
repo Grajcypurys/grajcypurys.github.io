@@ -1,2 +1,2 @@
 # grajcypurys.github.io
-something
+My jekyll project
